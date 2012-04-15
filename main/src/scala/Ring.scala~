@@ -1,0 +1,5 @@
+package com.itsky.finitefields;
+
+trait Ring {
+     
+}
